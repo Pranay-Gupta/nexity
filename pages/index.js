@@ -144,7 +144,7 @@ export default function Home() {
               <div className="text-6xl font-extrabold ">Welcome to Nexity</div>
               <div className="text-2xl mt-8  ">
                 Circular. Digital. <br />
-                We're building a new global economy.
+                We&apos;re building a new global economy.
               </div>
               <div className="text-xl mt-8 mb-12 text-blue-500">
                 Find out how{" "}
